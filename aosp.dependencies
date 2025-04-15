@@ -2,7 +2,7 @@
    {
      "repository": "android_kernel_motorola_payton",
      "target_path": "kernel/motorola/payton",
-     "branch":"unity"
+     "branch":"infinity"
    },
    {
       "repository":"android_system_qcom",
@@ -19,7 +19,6 @@
    {
       "repository":"android_vendor_motorola_payton",
       "target_path":"vendor/motorola/payton",
-      "branch":"unity",
       "remote":"pixelbuilds-blobs-gitlab"
    }
 ]
