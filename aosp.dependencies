@@ -2,7 +2,7 @@
    {
      "repository": "android_kernel_motorola_payton",
      "target_path": "kernel/motorola/payton",
-     "branch":"infinity"
+     "branch":"infinity-oss"
    },
    {
       "repository":"android_system_qcom",
